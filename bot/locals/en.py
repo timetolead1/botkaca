@@ -2,8 +2,8 @@
 from bot.locals import Local
 
 LOCAL = Local({
-    'WRONG_ROOM' : 'I a\'m not suppose to be here.\nID : <code>{CHAT_ID}</code>',
-    'WELCOME_MESSAGE' : "Hi!\nI'm <b>Botkaca</b>!\nPowered by pyrogram.\nFork: <a href='https://github.com/azamaulanaaa/botkaca'>github.com/azamaulanaaa/botkaca</a>",
+    'WRONG_ROOM' : 'Sorry , This is Wrong place , am not supposed to be here.\nID : <code>{CHAT_ID}</code>',
+    'WELCOME_MESSAGE' : "Hi!\nI'm <b>UploaDEE</b>!\nI can upload files to Telegram from Magnet and direct Links .\n Sorry , But I am protected With Password . Ask My Master @Priyanshu_bhardwaj",
     'PASS_REQUIRED' : '\n\nUse <code>/{cmd_pass} </code>to enter the password.',
     'LEECH_LIST_MESSAGE_HEADER' : '<b>Leech Status</b>',
     'LEECH_LIST_FORMAT' : 'Name: <code>{name}</code>\nStatus: {status}\nID: <code>{gid}</code>\n\n',
@@ -32,16 +32,16 @@ LOCAL = Local({
     'HELP_MESSAGE_HEADER' : '<b>Bot Command</b>',
     'NO_HELP_INFO' : 'no information',
     'COMMAND_START' : 'start bot',
-    'COMMAND_PASSWORD' : 'enter password that required',
-    'COMMAND_HELP' : 'this message',
+    'COMMAND_PASSWORD' : 'Enter Password to Continue',
+    'COMMAND_HELP' : 'Help message',
     'COMMAND_LEECH' : 'leech link or magnet',
     'COMMAND_CANCEL_LEECH' : 'cancel leeching',
-    'COMMAND_LEECH_LIST' : 'list on going leech',
+    'COMMAND_LEECH_LIST' : 'List of Current ongoing Processes',
     'COMMAND_SET_THUMBNAIL' : 'set custom video thumbail',
     'COMMAND_RESET_THUMBNAIL' : 'reset custom video thumbnail',
     'COMMAND_UPLOAD_AS_DOC' : 'toggle upload anything as document',
     'COMMAND_UPLOAD_AS_ZIP' : 'toggle upload anything as bundled zipfile',
-    'COMMAND_SET_TRACKER' : 'set default tracker, sparated by newline',
-    'BLOCK_EMPTY' : "▱",
-    "BLOCK_FILLED" : "▰"
+    'COMMAND_SET_TRACKER' : 'set default tracker, separated by newline',
+    'BLOCK_EMPTY' : "⚪",
+    "BLOCK_FILLED" : "🌑"
 })
