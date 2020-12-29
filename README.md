@@ -1,4 +1,4 @@
-# UpDated BOTKACA ( No Suspension )
+# BOTKACA (Resolved Heroku Error )
 ^Now bot Will work on heroku Without Any Error 
 
 Botkaca allows you to leech (re-upload) contents from internet including torrent to telegram. This bot using Telegram MTProto powered by pyrogram.
