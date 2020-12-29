@@ -1,4 +1,5 @@
-# BOTKACA
+# UpDated BOTKACA ( No Suspension )
+^Now bot Will work on heroku Without Any Error 
 
 Botkaca allows you to leech (re-upload) contents from internet including torrent to telegram. This bot using Telegram MTProto powered by pyrogram.
 
@@ -35,8 +36,8 @@ Change config by set the corresponding environment variable name.
 
 ## Deploy button
 
-[<img src="https://deploy.cloud.run/button.svg" alt="Run on Google Cloud" height="40"/>](https://deploy.cloud.run?git_repo=https://github.com/azamaulanaaa/botkaca.git "Google Cloud")
-[<img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" height="40"/>](https://heroku.com/deploy?template=https://github.com/azamaulanaaa/botkaca "Heroku")
+[<img src="https://deploy.cloud.run/button.svg" alt="Run on Google Cloud" height="40"/>](https://deploy.cloud.run?git_repo=https://github.com/bhardwajjEE/botkaca.git "Google Cloud")
+[<img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" height="40"/>](https://heroku.com/deploy?template=https://github.com/bhardwajjEE/botkaca "Heroku")
 
 *Currently google cloud does not supported due to app.json clash with heroku. Check out Google Cloud Run issue [#112](https://github.com/GoogleCloudPlatform/cloud-run-button/issues/112#issuecomment-663858778 "Both Cloud Run Button and Heroku Button - app.json Clash")*
 
@@ -46,7 +47,7 @@ Change config by set the corresponding environment variable name.
 #!/bin/sh
 
 # get botkaca source
-git clone https://github.com/azamaulanaaa/botkaca.git
+git clone https://github.com/bhardwajjEE/botkaca.git
 
 # build then execute using docker image
 docker build -t azamaulanaaa/botkaca botkaca
